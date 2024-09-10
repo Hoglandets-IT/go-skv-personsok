@@ -1,4 +1,4 @@
-package goskv
+package personsok
 
 import (
 	"bytes"
@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/hoglandets-it/go-skatteverket/models"
+	"github.com/hoglandets-it/goskv/models"
 	gofncfg "github.com/scheiblingco/gofn/config"
 )
 

@@ -1,5 +1,4 @@
-module github.com/hoglandets-it/go-skatteverket
-
+module github.com/hoglandets-it/goskv
 go 1.22.3
 
 require github.com/scheiblingco/gofn v1.0.5
