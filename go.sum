@@ -1,3 +1,6 @@
+github.com/BurntSushi/toml v1.4.0 h1:kuoIxZQy2WRRk1pttg9asf+WVv6tWQuBNVmK8+nqPr0=
+github.com/BurntSushi/toml v1.4.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 github.com/scheiblingco/gofn v0.1.1 h1:nsxm6u1TBSo8/NU+9CvpH/868seVyVvVG98xpzPP898=
 github.com/scheiblingco/gofn v0.1.1/go.mod h1:E3hcJ3mSpycrlE/M/mVdKuRK2gCljlIb2KQS5pLpbww=
 github.com/scheiblingco/gofn v0.1.2 h1:y1t9581OU16UWs0ulGd32tOVquzyncCNrbI4sWbxcDI=
@@ -8,6 +11,10 @@ github.com/scheiblingco/gofn v0.1.4 h1:q4fFUlFdmUApJpXk+1vfUMhk29n+BPexyn/qI/hKO
 github.com/scheiblingco/gofn v0.1.4/go.mod h1:E3hcJ3mSpycrlE/M/mVdKuRK2gCljlIb2KQS5pLpbww=
 github.com/scheiblingco/gofn v1.0.5 h1:LoDog/bWHmppIUXj7qTlOA2GB/cPIHAMyaUT+cKgaM4=
 github.com/scheiblingco/gofn v1.0.5/go.mod h1:fBkDNgkO7wvhuvOmQ/CzOOptRFJpB2j60lvGGdyWrvE=
+github.com/scheiblingco/gofn v1.2.3 h1:8A5EfuHHeHop/wjHCeVN6M1pDQ0qaWyABHXqZSuk4RI=
+github.com/scheiblingco/gofn v1.2.3/go.mod h1:13M/5pnINnUm6ysaQ/a/FN77iI34jXJFHKrte2/1QbQ=
+github.com/subpop/go-ini v0.1.5 h1:08hu8slz5c4KBXJWYOycyuDQ0E7xHr2vV2rH9x79FrY=
+github.com/subpop/go-ini v0.1.5/go.mod h1:mM5HCw/1+q92kIf4Btd7Oorioa8rAXb4NSBT2ldZNiU=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
 gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=

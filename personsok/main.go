@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/hoglandets-it/goskv/models"
-	gofncfg "github.com/scheiblingco/gofn/config"
+	gofncfg "github.com/scheiblingco/gofn/cfgtools"
 )
 
 type SkvClient struct {

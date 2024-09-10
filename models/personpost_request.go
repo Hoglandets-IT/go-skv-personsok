@@ -3,7 +3,7 @@ package models
 import (
 	"encoding/xml"
 
-	"github.com/scheiblingco/gofn/errors"
+	"github.com/scheiblingco/gofn/errtools"
 )
 
 type PersonpostRequestBestallning struct {
@@ -29,15 +29,15 @@ type PersonpostRequestV4 struct {
 
 func NewPersonpostV4Request(orgNr, bestId, personId string) (*PersonpostRequestV4, error) {
 	if orgNr == "" || bestId == "" || personId == "" {
-		return nil, errors.MissingValueError("orgNr, bestId or personId")
+		return nil, errtools.MissingValueError("orgNr, bestId or personId")
 	}
 
 	if len(orgNr) != 12 {
-		return nil, errors.InvalidFieldError("orgNr must be 12 characters")
+		return nil, errtools.InvalidFieldError("orgNr must be 12 characters")
 	}
 
 	if len(personId) != 12 {
-		return nil, errors.InvalidFieldError("personId must be 12 characters")
+		return nil, errtools.InvalidFieldError("personId must be 12 characters")
 	}
 
 	return &PersonpostRequestV4{
