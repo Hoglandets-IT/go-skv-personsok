@@ -1,0 +1,8 @@
+config.json
+.env
+*.pem
+cert.*
+*.pfx
+*.xml
+__debug*
+debug*

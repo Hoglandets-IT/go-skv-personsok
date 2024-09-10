@@ -1,0 +1,13 @@
+github.com/scheiblingco/gofn v0.1.1 h1:nsxm6u1TBSo8/NU+9CvpH/868seVyVvVG98xpzPP898=
+github.com/scheiblingco/gofn v0.1.1/go.mod h1:E3hcJ3mSpycrlE/M/mVdKuRK2gCljlIb2KQS5pLpbww=
+github.com/scheiblingco/gofn v0.1.2 h1:y1t9581OU16UWs0ulGd32tOVquzyncCNrbI4sWbxcDI=
+github.com/scheiblingco/gofn v0.1.2/go.mod h1:E3hcJ3mSpycrlE/M/mVdKuRK2gCljlIb2KQS5pLpbww=
+github.com/scheiblingco/gofn v0.1.3 h1:EDKeXTdGws8PUKb8fr6Uz+Z0thqgf56UaGm/ZBZMNuo=
+github.com/scheiblingco/gofn v0.1.3/go.mod h1:E3hcJ3mSpycrlE/M/mVdKuRK2gCljlIb2KQS5pLpbww=
+github.com/scheiblingco/gofn v0.1.4 h1:q4fFUlFdmUApJpXk+1vfUMhk29n+BPexyn/qI/hKO+g=
+github.com/scheiblingco/gofn v0.1.4/go.mod h1:E3hcJ3mSpycrlE/M/mVdKuRK2gCljlIb2KQS5pLpbww=
+github.com/scheiblingco/gofn v1.0.5 h1:LoDog/bWHmppIUXj7qTlOA2GB/cPIHAMyaUT+cKgaM4=
+github.com/scheiblingco/gofn v1.0.5/go.mod h1:fBkDNgkO7wvhuvOmQ/CzOOptRFJpB2j60lvGGdyWrvE=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
